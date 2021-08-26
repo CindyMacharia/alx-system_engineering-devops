@@ -1,2 +1,2 @@
 #!/bin/bash
-cp 14-copy_html 13-symbolic_link
+cp -u *.html ../
