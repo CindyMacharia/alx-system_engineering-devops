@@ -1,11 +1,11 @@
 #  Shell, I/O Redirections and filters
-##  Hello World
+##  0.0Hello World
 		 prints "Hello, Word" followed by a new line to the standard output.
-###  Confused Smiley
+###  1. Confused Smiley
 		 Displays a confused smiley.
-###  Let's display a file
+###  2. Let's display a file
 		 Displays contents of the /etc/passwd file.
-###  What about 2?
+###  3. What about 2?
 		 Display the contents of /etc/passwd and /etc/hosts
 ###  4.
 ###  5.
