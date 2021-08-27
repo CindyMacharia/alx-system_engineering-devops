@@ -1,2 +1,2 @@
 #!/bin/bash
-chmode 753 hello 354 olleh
+chmode 354 olleh
